@@ -1,1 +1,1 @@
-module.exports = global.BaseAudioContext || Object.getPrototypeOf(OfflineAudioContext);
+module.exports = global.BaseAudioContext || Object.getPrototypeOf(global.OfflineAudioContext || global.webkitOfflineAudioContext);
