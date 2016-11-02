@@ -6,6 +6,10 @@
   "bugs": {
     "url": "https://github.com/mohayonao/base-audio-context/issues"
   },
+  "devDependencies": {
+    "eater": "^3.1.0",
+    "eatest": "^0.5.0"
+  },
   "files": [
     "package.json",
     "README.md",
@@ -20,5 +24,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/mohayonao/base-audio-context.git"
+  },
+  "scripts": {
+    "test": "eater test/*.js",
+    "travis": "npm run test"
   }
 }
