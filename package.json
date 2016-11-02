@@ -1,7 +1,7 @@
 {
   "name": "base-audio-context",
   "description": "BaseAudioContext",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Nao Yonamine <mohayonao@gmail.com>",
   "bugs": {
     "url": "https://github.com/mohayonao/base-audio-context/issues"
