@@ -7,7 +7,7 @@
     "url": "https://github.com/mohayonao/base-audio-context/issues"
   },
   "devDependencies": {
-    "eater": "^3.1.0",
+    "eater": "^3.2.0",
     "eatest": "^0.5.0"
   },
   "files": [
